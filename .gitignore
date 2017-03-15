@@ -1,0 +1,6 @@
+*.log
+*.aux
+*.nfs*
+*.o
+ascii.txt
+asc.out
