@@ -1,0 +1,29 @@
+This is the summary file
+SEED: 132631
+Target:  deut
+Filling ntuple /projet/nucleon/silvia/genepi_new/genepi/ntup_deut_5.70gev_000.root
+Processing Event: 0/100000
+Processing Event: 10000/100000
+Processing Event: 20000/100000
+Processing Event: 30000/100000
+Processing Event: 40000/100000
+Processing Event: 50000/100000
+Processing Event: 60000/100000
+Processing Event: 70000/100000
+Processing Event: 80000/100000
+Processing Event: 90000/100000
+initial Number of events          100000
+hit neurons                       21910
+hit protons                       21542
+Number of good events             43452
+Number of events Out of kin. limits   56548
+kinem. limits :
+xbjmin   =  0.0317642;    xbjmax   =   0.999738
+ymin     =  0.0402557;    ymax     =   0.994119
+numin    =   0.300731;    numax    =    5.65836
+Q2min    =   0.300082;    Q2max    =    9.87212
+W2min    =   0.880907;    W2max    =    17.5124
+tmin     =   -18.0569;    tmax     = -0.0103647
+nupmin   = 0.00031499;    nupmax   =    5.56895
+Epmin    =   0.941889;    Epmax    =    6.47891
+
